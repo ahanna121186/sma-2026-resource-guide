@@ -2,13 +2,21 @@
 title: "SMA 2026 Methods for Dummies Resource Guide"
 subtitle: "Helpful articles to brush up on, brought to you by your Methods for Dummies instructors"
 authors: "Lisa Schurer Lambert, Texas Christian University
+:::
 
+:::
 Justin DeSimone, University of Alabama
+:::
 
+:::
 Hettie Richardson, Texas Christian University
+:::
 
+:::
 Janaki Gooty, University of North Carolina-Charlotte
+:::
 
+:::
 Andrew A. Hanna, University of Nebraska-Lincoln"
 lang: en
 description-meta: "Curated methodological readings, grouped by topic. Companion to the SMA 2026 Methods for Dummies session."

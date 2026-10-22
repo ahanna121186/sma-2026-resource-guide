@@ -14,7 +14,7 @@ format:
     theme: [cosmo, styles.scss]
     embed-resources: true
     toc: true
-    toc-title: "Jump to a question"
+    toc-title: "Jump to a topic"
     toc-depth: 2
     link-external-newwindow: true
     smooth-scroll: true

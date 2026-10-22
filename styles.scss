@@ -1,0 +1,19 @@
+/*-- scss:defaults --*/
+// Accent color for links (a deep red). Change this one value to recolor the page.
+$link-color: #9d2235;
+$link-hover-color: #6e1826;
+
+// Do not download Google web fonts (keeps the page fast and free of third-party requests).
+$web-font-path: false;
+
+// Use each device's built-in sans-serif font (no web-font download needed).
+$font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+
+/*-- scss:rules --*/
+// Headings
+h1, h2, h3 { font-weight: 600; }
+h2 { border-bottom: 1px solid #ddd; padding-bottom: .25rem; margin-top: 2.2rem; }
+
+// Title block: a quieter subtitle and byline
+.quarto-title .subtitle { color: #555; }
+.quarto-title-meta { margin-top: .5rem; }

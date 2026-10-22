@@ -1,9 +1,13 @@
 ---
 title: "SMA 2026 Methods for Dummies Resource Guide"
-subtitle: "Factor analysis and model fit"
-author: "Andrew A. Hanna, University of Nebraska-Lincoln"
+subtitle: "Helpful articles to brush up on, brought to you by your Methods for Dummies instructors"
+authors: "Lisa Schurer Lambert, Texas Christian University
+Justin DeSimone, University of Alabama
+Hettie Richardson, Texas Christian University
+Janaki Gooty, University of North Carolina-Charlotte
+Andrew A. Hanna, University of Nebraska-Lincoln"
 lang: en
-description-meta: "Curated readings on exploratory and confirmatory factor analysis and model fit, grouped by the questions researchers ask. Companion to the SMA 2026 Methods for Dummies session."
+description-meta: "Curated methodological readings, grouped by topic. Companion to the SMA 2026 Methods for Dummies session."
 format:
   html:
     theme: [cosmo, styles.scss]
@@ -80,7 +84,39 @@ Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance s
 
 [https://doi.org/10.1080/10705519909540118](https://doi.org/10.1080/10705519909540118){.link}
 
-The source of the most widely cited fit guidelines (for example CFI near .95, RMSEA near .06, SRMR near .08). Read it together with the next section.
+The source of the most widely cited fit guidelines (for example CFI near .95, RMSEA near .06, SRMR near .08).
+:::
+
+## Method Variance (Dr. Hettie Richardson)
+
+::: {.section-intro}
+Articles covering everything you need to understand the fundamentals of method variance.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Miller, B. K., & Simmering, M. J. (2023). Attitude toward the color blue: An ideal marker variable. *Organizational Research Methods, 26*. 401-440.
+
+[https://doi.org/10.1177/10944281221075361](https://doi.org/10.1177/10944281221075361){.link}
+
+Proposes attitude toward the color blue as a marker variable for estimating and adjusting for common method variance, with evidence of how well it works.
+:::
+
+::: {.resource}
+Spector, P. E., Rosen, C. C., Richardson, H. A., Williams, L. J., & Johnson, R. E. (2019). A new perspective on method variance: A measure-centric approach. *Journal of Management, 45*. 855-880.
+
+[https://doi.org/10.1177/0149206316687295](https://doi.org/10.1177/0149206316687295){.link}
+
+Argues that method variance should be assessed for each measure rather than assumed for a whole study, and offers a measure-centric approach to doing so.
+:::
+
+::: {.resource}
+Sturman, M. C., Richardson, H. A., Simmering, M. J., & Ukhov, A. (2025). Simplifying common method variance mitigation: The role of additional variables. *Journal of Business and Psychology*. 1-26.
+
+[https://doi.org/10.1007/s10869-025-10074-z](https://doi.org/10.1007/s10869-025-10074-z){.link}
+
+Examines how adding extra variables to a model can reduce common method variance bias, as a simpler alternative to more complex remedies.
 :::
 
 ---

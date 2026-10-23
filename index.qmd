@@ -7,6 +7,7 @@ authors:
   - "Hettie Richardson, Texas Christian University"
   - "Janaki Gooty, University of North Carolina-Charlotte"
   - "Andrew A. Hanna, University of Nebraska-Lincoln"
+  - "G. James Lemoine, SUNY at Buffalo"
 lang: en
 description-meta: "Curated methodological readings, grouped by topic. Companion to the SMA 2026 Methods for Dummies session."
 format:
@@ -120,6 +121,67 @@ Sturman, M. C., Richardson, H. A., Simmering, M. J., & Ukhov, A. (2025). Simplif
 Examines how adding extra variables to a model can reduce common method variance bias, as a simpler alternative to more complex remedies.
 :::
 
+## Additional Helpful Methods Resources (Dr. James Lemoine)
+
+::: {.section-intro}
+Additional helpful articles suggested by our organizer and host, Dr. James Lemoine.
+:::
+
+::: {.resource}
+Enders, C. K., & Tofighi, D. (2007). Centering predictor variables in cross-sectional multilevel models: A new look at an old issue. *Psychological Methods, 12*. 121.
+
+[https://doi.org/10.1037/1082-989X.12.2.121](https://doi.org/10.1037/1082-989X.12.2.121){.link}
+
+Discusses the importance of centering predictor variables' role as pivotal to the interpretation of intercept and slope parameters in multilevel models (MLMs).
+:::
+
+::: {.resource}
+Geiser, C. (2012). *Data analysis with Mplus*. Guilford Press.
+
+[Publisher page (book, no DOI)](https://www.guilford.com/books/Data-Analysis-with-Mplus/Christian-Geiser/9781462502455?srsltid=AYCX9vICaghyOSUhaG93AT1pGxsumz43pqhOZ73i0OOYJuvM6dlhST5H){.link}
+
+A practical introduction to using Mplus for the analysis of multivariate data.
+:::
+
+::: {.resource}
+Hinkin, T. R. (1998). A brief tutorial of measures for use in survey questionnaires. *Organizational Research Methods, 1*. 104-121.
+
+[https://doi.org/10.1177/109442819800100106](https://doi.org/10.1177/109442819800100106){.link}
+
+A conceptual framework and straightforward guide for the development of scales in accordance with established psychometric principles.
+:::
+
+::: {.resource}
+LeBreton, J. M., & Senter, J. L. (2008). Answers to 20 questions about interrater reliability and interrater agreement. *Organizational Research Methods, 11*. 815-852.
+
+[https://doi.org/10.1177/1094428106296642](https://doi.org/10.1177/1094428106296642){.link}
+
+A comprehensive overview of the various issues and guidelines surrounding the use of interrater reliability and interrater agreement indices often used in conjunction with multilevel models.
+:::
+
+::: {.resource}
+Lemoine, G. J., Ghahremani, H., & Norris, K. (2026). The curious case of cross-level effects: Refining our understanding to match our methods. *Journal of Organizational Behavior, 47*. 365-382.
+
+[https://doi.org/10.1002/job.70010](https://doi.org/10.1002/job.70010){.link}
+
+A comprehensive review and guidance for addressing the current challenges associated with the application of cross-level theory and interpretation of cross-level effects.
+:::
+
+::: {.resource}
+Preacher, K.J., Zyphur, M. J., & Zhang, Z. (2010). A general multilevel SEM framework for assessing multilevel mediation. *Psychological Methods, 15*. 209.
+
+[https://doi.org/10.1037/a0020141](https://doi.org/10.1037/a0020141){.link}
+
+Presentation and explanation of a multilevel structural equation modeling (MSEM) paradigm to overcome the limitations of mediation analysis with multilevel models in SEM.
+:::
+
+::: {.resource}
+Richardson, H. A., Simmering, M. J., & Sturman, M. C. (2009). A tale of three perspectives: Examining post hoc statistical techniques for detection and correction of common method variance. *Organizational Research Methods, 12*. 762-800.
+
+[https://doi.org/10.1177/1094428109332834](https://doi.org/10.1177/1094428109332834){.link}
+
+An empirical analysis and discussion of the implications of varied responses to addressing common method variance concerns in oragnizational research.
+:::
 ---
 
 Questions or suggestions for this list? Email me at [ahanna3@unl.edu](mailto:ahanna3@unl.edu). *Last updated October 2026.*

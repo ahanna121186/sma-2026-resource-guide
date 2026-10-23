@@ -7,7 +7,7 @@ authors:
   - "Hettie Richardson, Texas Christian University"
   - "Janaki Gooty, University of North Carolina-Charlotte"
   - "Andrew A. Hanna, University of Nebraska-Lincoln"
-  - "G. James Lemoine, SUNY at Buffalo"
+  - "Organized and Hosted by G. James Lemoine, SUNY at Buffalo"
 lang: en
 description-meta: "Curated methodological readings, grouped by topic. Companion to the SMA 2026 Methods for Dummies session."
 format:

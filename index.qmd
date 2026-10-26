@@ -121,6 +121,62 @@ Sturman, M. C., Richardson, H. A., Simmering, M. J., & Ukhov, A. (2025). Simplif
 Examines how adding extra variables to a model can reduce common method variance bias, as a simpler alternative to more complex remedies.
 :::
 
+## Mediation and Moderation (Dr. Justin DeSimone)
+
+::: {.section-intro}
+Helpful resources for understanding the nuances of moderation and mediation.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Baron, R. M., & Kenny, D. A. (1986). The moderator-mediator variable distinction in social psychological research: Conceptual, strategic, and statistical considerations. *Journal of Personality and Social Psychology, 51*. 1173-1182.
+
+[https://doi.org/10.1037/0022-3514.51.6.1173](https://doi.org/10.1037/0022-3514.51.6.1173){.link}
+
+The article everyone you know has read. This paper has been cited nearly 150,000 times and describes the basics of both mediation and moderation (though it is more often cited for its contributions to mediation).
+:::
+
+::: {.resource}
+Hayes, A. F. (2009). Beyond Baron and Kenny: Statistical mediation analysis in the new millennium. *Communication Monographs, 76*. 408-420.
+
+[https://doi.org/10.1080/03637750903310360](https://doi.org/10.1080/03637750903310360){.link}
+
+This paper critiques the Baron & Kenny approach, suggesting that mediation should instead focus on the indirect effect through SEM, addressing analytic options such as the Sobel test and bootstrapping.
+:::
+
+::: {.resource}
+James, L. R., Mulaik, S. A., & Brett, J. M. (2006). A tale of two methods. *Organizational Research Methods, 9*. 233-244.
+
+[https://doi.org/10.1177/1094428105285144](https://doi.org/10.1177/1094428105285144){.link}
+
+This paper offers a comparison of the Baron & Kenny approach with SEM-based approaches. This is a great source for understanding the empirical and theoretical differences between complete and partial mediation.
+:::
+
+::: {.resource}
+Dawson, J. F. (2014). Moderation in management research: What, why, when, and how. *Journal of Business and Psychology, 29*. 1-19.
+
+[https://doi.org/10.1007/s10869-013-9308-7](https://doi.org/10.1007/s10869-013-9308-7){.link}
+
+This paper offers an excellent introduction to moderation in the management literature. Beyond providing a basic explanation, this paper tackles more advanced moderation models and suggests analytical and visualization resources for readers.
+:::
+
+::: {.resource}
+Aguinis, H. (1995). Statistical power problems with moderated multiple regression in management research. *Journal of Management, 21*. 1141-1158.
+
+[https://doi.org/10.1016/0149-2063(95)90026-8](https://doi.org/10.1016/0149-2063(95)90026-8){.link}
+
+This paper addresses the typically low levels of statistical power associated with regression-based analysis of moderation, offering solutions related to power analysis and research design. An excellent look at some common problems with moderation in the management field.
+:::
+
+::: {.resource}
+Edwards, J. R., & Lambert, L. S. (2007). Methods for integrating moderation and mediation: A general analytical framework using moderated path analysis. *Psychological Methods, 12*. 1-22.
+
+[https://doi.org/10.1037/1082-989X.12.1.1](https://doi.org/10.1037/1082-989X.12.1.1){.link}
+
+This paper discusses the combination of moderation and mediation (e.g., moderated mediation models). The topic is more advanced (as readers should probably understand both moderation and mediation reasonably well before combining them). However, the explanations offered in this paper are easy to follow, with many examples and logical explanations that make a relatively advanced set of techniques accessible to researchers across fields.
+:::
+
 ## Additional Helpful Methods Resources (Dr. James Lemoine)
 
 ::: {.section-intro}

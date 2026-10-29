@@ -89,6 +89,46 @@ Hu, L., & Bentler, P. M. (1999). Cutoff criteria for fit indexes in covariance s
 The source of the most widely cited fit guidelines (for example CFI near .95, RMSEA near .06, SRMR near .08).
 :::
 
+## Multilevel Research Design (Dr. Janaki Gooty)
+
+::: {.section-intro}
+Articles and chapters covering everything you need to know about multilevel design.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Klein, K. J. & Kozlowski, S. W. J. 2000. From micro to meso: Critical steps in conceptualizing and conducting multilevel research. *Organizational Research Methods, 3*, 211-236.
+
+[https://doi.org/10.1177/10944281003300](https://doi.org/10.1177/10944281003300){.link}
+
+The authors address four primary choices—construct and measurement issues, model specification, research design and sampling, and data analyses— describing critical steps in conceptualizing and conducting multilevel research.
+:::
+
+::: {.resource}
+LeBreton, J. M., & Senter, J. L. (2008). Answers to twenty questions about interrater reliability and interrater agreement. *Organizational Research Methods, 11*, 815-852. 
+
+[https://doi.org/10.1177/1094428106296642](https://doi.org/10.1177/1094428106296642){.link}
+
+The purpose of the current article is to expose researchers to the various issues surrounding the use of IRR and IRA indices often used in conjunction with multilevel models. To achieve this goal, the authors adopt a question-and-answer format and provide a tutorial in the appendices illustrating how these indices may be computed using the SPSS software.
+:::
+
+::: {.resource}
+Morgeson, F. P. & Hofmann, D. A. (1999). The structure and function of collective constructs: Implications for multilevel research and theory development. *Academy of Management Review, 24*, 249-285.
+
+[https://doi.org/10.5465/amr.1999.1893935](https://doi.org/10.5465/amr.1999.1893935){.link}
+
+Discusses implications arising from this perspective and present a set of guidelines for multilevel research and theory development.
+:::
+
+::: {.resource}
+Gooty, J., & Yammarino, F. J. (2016). The leader–member exchange relationship: A multisource, cross-level investigation. *Journal of Management, 42*, 915-935.
+
+[https://doi.org/10.1177/0149206313503009](https://doi.org/10.1177/0149206313503009){.link}
+
+Invokes new cross-classified and traditional nested models with multisource ratings of performance, and the findings largely support the study hypotheses. Implications for LMX at different levels of analyses as well as future theory and research are discussed.
+:::
+
 ## Method Variance (Dr. Hettie Richardson)
 
 ::: {.section-intro}

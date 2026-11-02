@@ -47,6 +47,28 @@ The following resources accompany the Methods for Dummies series at the 2026 Sou
 
 Resources marked <span class="badge-start">Start here</span> are a suggested "first read" within each topic.
 
+## Download Presenter Slides from SMA 2026
+
+::: {.section-intro}
+A copy of presenters' slides and Word documents from SMA 2026 in St. Pete Beach, FL.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Slides from Dr. DeSimone, Dr. Richardson, Dr. Hanna, and Dr. Gooty
+
+[Download here](SMA 2026 MfD.pdf){.link}
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Word document from Dr. Lambert
+
+[Download here](NOTES FORMATIVE AND MULTIDIMENSIONAL MEASURES - Lambert.docx){.link}
+:::
+
 ## CFA, EFA, and Model Fit (Dr. Andrew Hanna)
 
 ::: {.section-intro}

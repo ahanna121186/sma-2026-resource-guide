@@ -69,6 +69,30 @@ Word document from Dr. Lambert
 [Download here](NOTES FORMATIVE AND MULTIDIMENSIONAL MEASURES - Lambert.docx){.link}
 :::
 
+## Modeling Formative and Reflective Measures (Dr. Lisa Schurer Lambert)
+
+::: {.section-intro}
+Articles and chapters explaining the differences between these two measurement model options.
+:::
+
+::: {.resource .start-here}
+<span class="badge-start">Start here</span>
+
+Lambert, L.S. & Newman, D.A. (2023). Construct development and validation in three practical steps: Recommendations for reviewers, editors, and authors. *Organizational Research Methods, 26* 574-607.
+
+[https://doi.org/10.1177/10944281221115374](https://doi.org/10.1177/10944281221115374){.link}
+
+Outlines the Define-Operationalize-Confirm process, addresses issues in establishing construct validity, and provides a checklist for journal reviewers and authors when evaluating the validity of measures used in organizational research.
+:::
+
+::: {.resource}
+Lambert, L.S., Gray, T.W., & Zabinski, A. (2023). Measurement models: Reflective and formative measures, and evidence for construct validity. In L. R. Ford & T. A. Scandura (Eds.), *The SAGE handbook of survey development and application*. SAGE.
+
+[Publisher page (book, no DOI)](https://www.sagepub.com/shop/buy-a-book/the-sage-handbook-of-survey-development-and-application-1-276575?srsltid=AYCX9vIyG8Zx8NerVw0WT9ry3-kG-MGQFhfT8m5un9Jy639CYVe0ZBi5){.link}
+
+An applied, step-by-step guide on reflective and formative measures.
+:::
+
 ## CFA, EFA, and Model Fit (Dr. Andrew Hanna)
 
 ::: {.section-intro}
